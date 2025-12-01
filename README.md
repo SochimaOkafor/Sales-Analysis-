@@ -27,8 +27,8 @@ Before conducting the analysis, several data preprocessing and cleaning steps we
 
 - Creating calculated columns such as:
   - Total Revenue = Quantity × Unit Price
-  - Profit Margin
   - Filtering out outliers and irrelevant records.
+![Screenshot 2025-12-01 124636](https://github.com/user-attachments/assets/530e04ed-de21-443a-b2fd-86a0fcec67ce)
 
 These steps ensured that the dataset was clean, structured, and ready for detailed analysis.
 
